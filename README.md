@@ -30,7 +30,6 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ```typescript
 // Abanoub Emil | Frontend Engineer & Next.js Enthusiast
@@ -39,16 +38,8 @@ class Bio extends Abanoub {
   static currentStack = {
     framework:  ["Next.js", "React.js"],
     language:   ["TypeScript", "JavaScript"],
-    styling:    ["TailwindCSS", "Sass", "Framer Motion"],
+    styling:    ["TailwindCSS", "Framer Motion"],
     stateMgmt:  ["Redux Toolkit", "Zustand"],
-    backend:    ["Firebase", "Supabase"] // مفيدين جداً للفرونت إند
+    tools:      ["Git", "Vite", "Figma"]
   };
-
-  get goals() {
-    return [
-      "Building high-performance SEO friendly apps",
-      "Mastering Server Components & Hydration",
-      "Creating seamless user experiences"
-    ];
-  }
 }
