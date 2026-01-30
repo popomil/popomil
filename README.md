@@ -10,32 +10,45 @@
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=Abanoub-Emil&style=flat&color=blue&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=Abanoub-Emil&style=flat&color=007acc&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abanoub_Emil-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_USER) <br>
 </div>
 
 <hr>
 
-### 🚀 Front-end Toolkit
+### 🚀 Front-end Superpowers
 
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D91?style=flat&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-```javascript
-// About Abanoub Emil - Front-end Developer
+```typescript
+// Abanoub Emil | Frontend Engineer & Next.js Enthusiast
 
-const abanoub = {
-  role: "Front-end Developer",
-  languages: ["JavaScript", "HTML5", "CSS3"],
-  libraries: ["React", "Redux", "Tailwind"],
-  tools: ["Git", "GitHub", "VS Code", "Figma"],
-  currentFocus: "Building responsive & user-friendly UIs"
-};
+class Bio extends Abanoub {
+  static currentStack = {
+    framework:  ["Next.js", "React.js"],
+    language:   ["TypeScript", "JavaScript"],
+    styling:    ["TailwindCSS", "Sass", "Framer Motion"],
+    stateMgmt:  ["Redux Toolkit", "Zustand"],
+    backend:    ["Firebase", "Supabase"] // مفيدين جداً للفرونت إند
+  };
+
+  get goals() {
+    return [
+      "Building high-performance SEO friendly apps",
+      "Mastering Server Components & Hydration",
+      "Creating seamless user experiences"
+    ];
+  }
+}
