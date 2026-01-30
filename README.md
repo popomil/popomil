@@ -7,12 +7,10 @@
 <h1>Hi 👋, I'm Abanoub Emil</h1>
 <h3>Frontend Developer | React.js & Next.js</h3>
 
-<a href="https://linkedin.com/in/abanoub-emil-590657323" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Abanoub%20Emil-blue?style=flat&logo=linkedin" />
+<a href="https://linkedin.com/in/abanoub-emil-590657323">
+  <img src="https://img.shields.io/badge/LinkedIn-Abanoub%20Emil-blue?style=flat&logo=linkedin">
 </a>
-
 <img src="https://komarev.com/ghpvc/?username=abanoub-emil&style=flat&color=orange&label=Profile+Views"/>
-
 </div>
 
 ---
@@ -78,8 +76,14 @@ const abanoub = {
   frameworks: ["React.js", "Next.js"],
   languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
   stateManagement: ["Redux"],
-  styling: ["CSS", "CSS Modules", "Chakra UI"],
+  styling: [
+    "CSS",
+    "CSS Modules",
+    "Tailwind CSS",
+    "Bootstrap",
+    "Chakra UI"
+  ],
   backendServices: ["Firebase", "Supabase"],
   tools: ["Git", "GitHub", "Figma", "VS Code"],
-  platforms: ["Linux", "Windows"],
 };
+
