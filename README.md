@@ -1,45 +1,54 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
+<br/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
 
-<details>
-<summary><strong> 🎧 Busy coding & Vibing to : </strong></summary>
+<h1>Hi 👋, I'm Abanoub Emil</h1>
+<h3>Frontend Developer | React.js & Next.js</h3>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com) <br>
+<a href="https://linkedin.com/in/abanoub-emil-590657323" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Abanoub%20Emil-blue?style=flat&logo=linkedin" />
+</a>
 
-</details>
+<img src="https://komarev.com/ghpvc/?username=abanoub-emil&style=flat&color=orange&label=Profile+Views"/>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=Abanoub-Emil&style=flat&color=007acc&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abanoub_Emil-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_USER) <br>
 </div>
 
-<hr>
+---
 
-### 🚀 Front-end Superpowers
+## 🚀 Tech Stack
 
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D91?style=flat&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-```typescript
-// Abanoub Emil | Frontend Engineer & Next.js Enthusiast
+---
 
-class Bio extends Abanoub {
-  static currentStack = {
-    framework:  ["Next.js", "React.js"],
-    language:   ["TypeScript", "JavaScript"],
-    styling:    ["TailwindCSS", "Framer Motion"],
-    stateMgmt:  ["Redux Toolkit", "Zustand"],
-    tools:      ["Git", "Vite", "Figma"]
-  };
-}
+## 👨‍💻 About Me
+
+- 💻 Frontend Developer specialized in **React.js & Next.js**
+- 🎨 Passionate about **clean UI / UX**
+- ⚡ Focused on performance & reusable components
+- 📚 Currently learning **advanced Next.js & architecture**
+- 💬 Ask me about **React, Next.js, JavaScript**
+
+---
+
+## 🧠 Skills Snapshot
+
+```js
+const abanoub = {
+  role: "Frontend Developer",
+  frameworks: ["React.js", "Next.js"],
+  languages: ["JavaScript", "TypeScript"],
+  styling: ["CSS", "Chakra UI"],
+  tools: ["Git", "Figma"],
+};
